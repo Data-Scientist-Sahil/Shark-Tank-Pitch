@@ -1,0 +1,109 @@
+
+    00:17
+    "My name is Abhit, this is Danish, and this is Manoj. We're all co-founders of Rbo AI and we're from Mumbai. We're pretty happy in our married lives, but then comes that dreaded question from our wives: 'How do I look?' If you say she looks good, she'll be like, 'Oh, you weren't even paying attention!' And if you say she doesn't look good, she'll say, 'You always find faults in me!' But to be fair, they have a point because they spend hours getting ready, and they don’t really get any help to do their makeup right."
+
+    
+    01:05
+    "Or which product is perfect for their skin? Don’t worry, sharks, we’ve got Beauty GPT, which solves all these problems. Beauty GPT is a software created by artificial intelligence that gives personalized answers to all your makeup-related questions. It’ll create a customized look based on your selfie, whether it’s for an interview or a wedding. It’ll also provide information on the products you’ll need to achieve that look. Beauty GPT will soon also come with solutions for skin and hair!"
+
+    
+    01:45
+    Get ready, because Shark's Beauty GPT is about to launch! Our vision is to make Beauty GPT the world's biggest personal beauty advisor. No more relying on husbands for beauty advice; Beauty GPT will handle it all. Today, we're asking for ₹75 crore for 5% equity in our company. So, Sharks, are you ready to try Beauty GPT? What did you say? The product isn't live yet? Well, we have a pre-launch valuation of ₹133 crore. Our DIY product is already live, which we launched earlier.
+
+    
+    02:26
+    "We've created a product, and this is the advanced version. Please tell us from the beginning what you do. You don't need to explain what you do because you're just giving us your version one, but we have no clue whose version that is. We initially made five modules using beauty AI: one is a makeup try-on, the second is skin analysis, the third is a virtual hairstyler, the fourth is a hair color changer, and the fifth is a foundation shade finder. We're already selling all these products in the market. When did we start this? It just got going!"
+
+    
+    03:00
+    In October 2019, what was the first product that Brand Beauty GPT launched? There wasn't a specific name; it was more like a category, such as makeup trends or skin analysis. The product sells well. Let’s see a demo. Vinita, can you come up? First, we’ll check the current one, then we’ll come back to the new one; otherwise, we get confused. Mirror, mirror on the wall, let’s get some makeup! I’m going to try a red lipstick. [Music] So, this red lipstick, you can see the product name too. The novelty of this is that it’s a real-time application.
+
+    
+    03:45
+    Yeah, so what I’ve noticed with the bad products is that the eyeliner gets all over the place, it doesn’t stay where it’s supposed to. Like, you just put on your eyeliner, and look, I’ve got this pink one, and I used a blue color too. Yeah, it’s showing up right by my eye, which I actually like because it doesn’t smudge everywhere. And when you move, it doesn’t budge either. It moves with me, which is a good thing. I'm putting on a black lipstick now.
+
+    
+    04:13
+    "Okay, so for the music, yeah, I get it now. Let’s move on. Look, he’s going with him. That's right, boss. Nice take, bro, or the take is amazing. Alright, this is your current product. This is an assisting product that’s already selling. What you just showed, there are five modules like that. Now, you’ve come out with a new product, Beauty GPT. Is this new or old? It’s new, right? This is the future. The good search is keyword-based, but this contextual search hasn’t been made yet. That’s what Beauty GPT is replacing."
+
+    
+    04:51
+    Right now, if you click here, you can check out how to create pink lips for my pink dress. I just want to do this for a second. Yeah, a vintage Hollywood red carpet look is what I’m going for. First, it’ll show on this model, and then you can try it on yourself so I can see how it looks on my face. Now, with their facial detection, you’re creating the whole look for them, and then the products will pop up. So, here are the results; you get three different looks. You might have noticed there was also an automated tutorial for the first look that popped up.
+
+    
+    05:28
+    You can create a wedding look for your friend Vanita step by step. Check out how you want to look for your wedding. This wedding is happening, so what are you going to do about it? [Music] Your old products were better compared to these ones. If asked, they wouldn’t hold up. I think the use case is interesting. You can search for "I want a wedding look for my music party" and it will show you options to curate a complete look. Just a heads up, I met Manoj because of our online e-commerce.
+
+    
+    06:17
+    Trying on lipstick while shopping is pretty common, so we're looking into this magic mirror product for our stores. We evaluated their technology along with others, and honestly, I thought their tech was really good—better than a lot of the rest. But do you think it makes any sense? We were planning to pilot it in one store, and just thinking about it, I noticed some gray hairs popping up. I mean, if you're experienced, share your story! We're the first AR search company in India.
+
+    
+    06:49
+    "I have a retail background and I've worked in the industry for 20 years, with 12 of those in the US. I used to work in global business transformation for ads. After that, in 2012, I introduced music with Manoj, and since then, we've been working together. In Brand Fee, we had Danish and Abhit join as the first employees, but the startup didn't take off, so we shut it down. The equity split was 33% for me, 5% for Abhit, and 5% for Danish, and the rest went to stock options and investors. Now, let's move on."
+
+    
+    07:49
+    "We raised $1.6 million in our pre-series round, which is around ₹11 crores, with a post-money valuation of ₹55 crores. After that, we raised another $6 million, so about ₹93 crores, but we did that in 2022, not 2021. Right now, we have around eight months of runway left, and our burn rate is at least ₹48 lakhs a month. We have 35 employees. So, how much have we raised in total so far? ₹26 crores. Manoj bhai, we really need to talk about raising more funds."
+
+    
+    08:27
+    "Hey there! Thanks a lot! We're wrapping up your old product, or are you pitching it to someone? You've got the crux of it. Behind this, we have a total of nine AI models running, two of which are actually based on GPT, like ChatGPT—those are LLM models. My contextual ones are prepped in advance, and then we create your makeup look in the third layer. Finally, the application comes in as the last layer. This is our first product that we're defining, which is all about doing it yourself. So, that’s what we’ve built out of the old stuff."
+
+    
+    09:06
+    "It's not a waste; it's actually part of the offer. What we've built is the building blocks of Beauty GPT, and there isn't a platform like it in the market today. But hey, tell me, who's going to buy my product? Why did we create Beauty GPT? It's for large retailers who have SKUs in the range of 2,000 to 5,000. That's when Beauty GPT becomes relevant for them. I get that you're going to charge me, but how do you charge them? Is it subscription-based?"
+
+    
+    09:41
+    But how much will subscribers pay? We charge 20 paise per execution, and this rate is fine, it’s not too high. Right now, what’s the monthly revenue? It’s around 18 lakhs. So, in India, the big beauty brands, they don't use your product. It’s being handled by ITC. Which brand are they working for? I think this might be affecting the conversion rates. The number of customers coming to the site, without this and with this, the impact on conversion—can you share those numbers? That’s a big deal for us with one of our clients.
+
+    
+    10:12
+    Those who integrated skin analysis on their assisting website have run a total of 12,000 skin analyses and made 9,000 purchases over the past five months. So, if they needed to acquire 9,000 customers, they would have spent about 54 lakh traditionally. But after integrating our product, they only spent 10 lakh. Let me ask you, how long have you been running this company? Four years? Yeah, it’s been four years, and you're doing an 18 lakh monthly business. Do you think that's a great outcome? Right now, with the contractual revenue we're generating, in the next 12 months, we’re already looking at seven to eight.
+
+    
+    10:45
+    We're already on track to reach a crore, which is great because I think that's your weak spot. You'll need to boost your sales in your business. Right now, you're looking at needing around six crores just to keep things running. We need a big round of funding, and we’re already in talks about one. On the side, we have some soft commitments coming in, up to three crores, and we're also discussing a potential round of three million dollars with a strategic investor at a valuation of 130 crores. It's a solid idea if we can get a strategic investor on board.
+
+    
+    11:17
+    "They're offering you 3 million, but you should think about what price you’ve set. Generally, it’s not going to happen at 0000 per month per mirror. That’s just unrealistic, man. First off, you won't get it with just one mirror; you'll need two for a retail store. The total average rent is around 6 to 7 thousand. You'll end up giving 10% of the revenue. I’ve got Tata on board, Shopper Stop on board, Lux Salon on board. We’re deploying at least 800 mirrors. The backend isn’t the issue; the frontend isn’t the issue because you're selling through Sugar. You're just creating those middle models."
+
+    
+    12:01
+    Being a sandwich, the more you focus on your economics and profitability, the more pressure you’ll feel, especially considering your cap table and runway. So, for those reasons, I’m out. First off, you’ve used a lot of buzzwords that just sound like you’re trying too hard to be intellectual, and honestly, I don’t get it. Second, you've already raised a ton of funding, yet you’re only doing 16 lakh in business after 30 crores; that doesn’t make sense to me. Third, there seems to be an issue with your business model that I just can’t wrap my head around. All three of those things are red flags for me.
+
+    
+    12:37
+    The reasons I have pretty much align with Aman’s views. First, you raised funds for one product, then switched to another, and now you’re talking about a third product. I see a lot of baggage here. Plus, I don’t see any clear advantage you have that would make this tool better. For these three reasons, I’d like to bow out. Beauty is a category where education and engagement play a crucial role in decision-making, and right now, it’s just not investable.
+
+    
+    13:14
+    But if you can secure a term sheet within the next three months for 3 million, then I have an offer for you, which is 10 million at a valuation that matches your last round’s post-money value. The initial product you created is a good one. If I were your advisor, I’d say do whatever it takes—even if you have to give it away for 10 cents—to get them as your client. Because you're serving sugar to 10 other small retailers, your work is practically done. They are providing marketing support for you more than anyone else.
+
+    
+    13:49
+    "Anything else? You just laid out your strategy, and I have a lot of experience in this. Yeah, I’m a good strategic investor for you guys, but I can’t match this valuation. You can sell me the company if you make a good offer; then we can think about it. I’m willing to buy a majority stake for 15 crores, 51% of your company. Okay, I’ll put in primary capital into the company, dilute everybody. It’s an offer right now on the table, provided due diligence shows that your technology and your team are already solid. We’d like to think about this a bit."
+
+    
+    14:29
+    I'm shocked! If you're thinking about this, hurry up and get moving. You guys need money, and I can help you out. It's like a shopping spree here with the company. Lens Card, Sunil sir, Manoj here. Yes, we have two offers. I think if we negotiate a bit, maybe we can present it to them. Instead of asking for 15 crores, let’s say 27 crores. Honestly, they might just freak out and insist on the 15 crores, but ideally, we should aim for that 30 crores. If we get the 15 crores, we can do something with it later. Welcome to Lens Card, Tank Viniita! Thanks a lot for the offer. The three-month timeline is really tight.
+
+    
+    15:16
+    "It's time to make a move if we get a term sheet, and if we're in the process, I would jump on this offer because I have nothing to lose. I know we can do amazing things together, right Piyush? We should counter with an offer. I think we should aim for at least 35 crores because, well, it’s 51. We’ve earned a lot of respect from the investors who are interested in us. I totally understand, and I'm not trying to lowball you with my offer, but I can't pay that price for this business. You know, a hungry person doesn’t ask for much."
+
+    
+    15:56
+    "Is there ghee in this or not? Look, you can't just sell your company like that. You know, in just 10 minutes of discussion. But you guys know what it's about out there. You know the value I bring to the table. You can't just sell your company like that in 101 minutes. Survival is the number one job of an entrepreneur. You need to realize that these 15-minute decisions can affect years of decisions. If you keep doing the current business, we’re not buying you out right now. We’ll make a business plan to grow the company. You came here with a valuation of 100 crores; you’ve already given that to your investors."
+
+    
+    16:34
+    "You just mentioned that I have 90 crores, and in three months, I’ll be putting in 10 crores for a term shutdown. Meanwhile, you're saying that I'm selling my values and integrity for 15 crores. Seriously? You're getting bought for 15 crores. In three to four months, how much are you going to raise through this term shutdown? At least 5 million should come in. So fine, let's say you make 1 crore, and at the end of the month, you're doing a term shutdown worth 1.5 million. There's an offer from Vinitas, and there's a LensKart offer too. You figure out which one you want to go for without any outside influence and just let me know."
+
+    
+    17:13
+    "I'll respect you in both ways, and we'll meet outside. I feel like, Vinita, we’ll take your offer. The deal is set! It's a done deal, brother. Your company is saved, man. Thank you so much! You're welcome. Just remember to thank me, alright? Thanks a lot! [music] Guys."
+
+    
